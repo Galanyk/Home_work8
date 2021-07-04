@@ -23,31 +23,39 @@
     margin-right: 20px;
 }
 
+.main {
+    background-color: crimson;
+    width: 900px;
+    margin-bottom: 30px;
+   
+}
+
 .clearfix {
     clear: both;
+}
+
+.wrap {
+    float: right;
 }
 
 .nav-first {
     width: 50px;
     height: 30px;
     background-color: blue; 
-   
-    margin-top: 0px;
-    margin-bottom: 0px;
-    margin-right: 0px;
+   float: left;
 }
 
 .nav-second {
     width: 60px;
     height: 30px;
     background-color: rgb(211, 2, 176); 
-    
+    float: left;
     
 }
 .nav-fird {
     width: 70px;
     height: 30px;
     background-color: yellow; 
+    float: left;
     
-    margin-right: 20px;
 }
