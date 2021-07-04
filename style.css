@@ -13,6 +13,7 @@
     margin-top: 20px;
     margin-bottom: 20px;
 }
+
 .nav {
     width: 150px;
     height: 100px;
@@ -27,7 +28,6 @@
     background-color: crimson;
     width: 800px;
     margin-bottom: 30px;
-   
 }
 
 .clearfix {
@@ -126,22 +126,30 @@
     margin-bottom: 30px;
 }
 
-.aside {
-    float: left;
-}
-
 .map {
     width: 150px;
-    height: 65px;
+    height: 70px;
     background-color: teal;
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
+
+.men {
+    width: 150px;
+    height: 70px;
+    background-color: teal;
+    margin-top: 10px;
+    margin-bottom: 20px;
+} 
 
 .pic {
     background-color: rgb(105, 226, 176);
     width: 800px;
 }
+
+.picture {
+    float: right; 
+ }
 
 .desc {
     width: 150px;
@@ -150,6 +158,10 @@
     margin-top: 20px;
     margin-bottom: 20px;
     margin-right: 20px;
+    float: left;  
+}
+
+.lead {
     float: left;  
 }
 
@@ -162,10 +174,3 @@
     margin-right: 20px;
 }
 
-.lead {
-  float: left;  
-}
-
-.picture {
-   float: right; 
-}
