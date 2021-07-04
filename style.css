@@ -75,8 +75,7 @@
 .cont {
     background-color: rgb(105, 226, 176);
     width: 800px;
-   
-    
+    margin-bottom: 30px;
 }
 
 .page {
@@ -101,4 +100,72 @@
 
 .pad {
     float: right;
+}
+
+.icon {
+    background-color: rgb(123, 105, 226);
+    width: 400px;
+    float: left;
+    margin-bottom: 30px;
+}
+
+.inner {
+    width: 150px;
+    height: 150px;
+    background-color: rebeccapurple;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    float:right ;  
+}
+
+.cont-2 {
+    background-color: rgb(123, 105, 226);
+    width: 400px; 
+    float: left;
+    margin-bottom: 30px;
+}
+
+.aside {
+    float: left;
+}
+
+.map {
+    width: 150px;
+    height: 65px;
+    background-color: teal;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.pic {
+    background-color: rgb(105, 226, 176);
+    width: 800px;
+}
+
+.desc {
+    width: 150px;
+    height: 150px;
+    background-color:blue;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    float: left;  
+}
+
+.title {
+    width: 150px;
+    height: 65px;
+    background-color: teal;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+
+.lead {
+  float: left;  
+}
+
+.picture {
+   float: right; 
 }
