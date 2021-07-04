@@ -1,6 +1,6 @@
 .header {
     background-color: crimson;
-    width: 900px;
+    width: 800px;
     margin-bottom: 30px;
 }
 
@@ -25,7 +25,7 @@
 
 .main {
     background-color: crimson;
-    width: 900px;
+    width: 800px;
     margin-bottom: 30px;
    
 }
@@ -36,26 +36,69 @@
 
 .wrap {
     float: right;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .nav-first {
-    width: 50px;
-    height: 30px;
+    width: 60px;
+    height: 40px;
     background-color: blue; 
-   float: left;
+    float: left;
+    margin-right: 20px;
 }
 
 .nav-second {
-    width: 60px;
-    height: 30px;
+    width: 70px;
+    height: 40px;
     background-color: rgb(211, 2, 176); 
     float: left;
-    
+    margin-right: 30px;
 }
+
 .nav-fird {
     width: 70px;
-    height: 30px;
+    height: 40px;
+    background-color: rgb(2, 211, 176); 
+    float: left;
+    margin-right: 30px;
+}
+
+.nav-fourth {
+    width: 90px;
+    height: 40px;
     background-color: yellow; 
     float: left;
+    margin-right: 30px;
+}
+
+.cont {
+    background-color: rgb(105, 226, 176);
+    width: 800px;
+   
     
+}
+
+.page {
+    width: 150px;
+    height: 100px;
+    background-color: yellow; 
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.box {
+    width: 150px;
+    height: 100px;
+    background-color: rgb(151, 7, 26); 
+    float: left;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.pad {
+    float: right;
 }
